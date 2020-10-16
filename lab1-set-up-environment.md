@@ -1,4 +1,4 @@
-# How to set up your environment
+# LAB01: How to set up your environment
 
 ## Install Azure PowerShell from PowerShell Gallery
 
